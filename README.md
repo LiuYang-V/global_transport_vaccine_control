@@ -1,7 +1,7 @@
 # Global pandemic control strategy: integrating transportation and vaccination with vaccine-sharing mechanism
 - This repository contains the raw data and programming file for the preprint manuscript submitted to Transportation Research Part C.
   - Liu Yang, Kashin Sugishita, Shinya Hanaoka, Global pandemic control strategy: integrating transportation and vaccination with vaccine-sharing mechanism, 2024.
-- Initial version Oct 3, 2024; last updated Oct 3, 2024. 
+- Initial version Oct 3, 2024; last updated Oct 10, 2024. 
 - Due to certain confidential issues, some raw data in the folder are preprocessed.  
 
 ## Files introduction
